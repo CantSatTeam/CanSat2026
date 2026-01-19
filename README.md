@@ -1,4 +1,4 @@
-# 2026 CSDCMS CanSat Competition: Coudln'tSat
+# 2026 CSDCMS CanSat Competition: Couldn'tSat
 
 This repository will contain the Couldn'tSat team's submission to the [2026 CSDCMS CanSat Competition](https://www.csdcms.ca/CanSat_info.html).
 
